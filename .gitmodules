@@ -1,0 +1,3 @@
+[submodule "SlitherIO-AI"]
+	path = SlitherIO-AI
+	url = https://github.com/PeterL328/SlitherIO-AI.git
