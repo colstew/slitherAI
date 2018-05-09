@@ -1,4 +1,4 @@
-#!/home/cole/slitherAI/bin/python
+#!/home/colestew/slitherAI/bin/python
 
 import sys
 import getopt
